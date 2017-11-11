@@ -20,7 +20,7 @@ Python with Chrome driver, for running automated tests
 
 ```
 $ cd [your working directory]
-$ docker run -it -v $(pwd):/usr/workspace joyzoursky/python-chromedriver bash
+$ docker run -it -v $(pwd):/usr/workspace yggi49/python-chromedriver bash
 root@[container ID]:/# cd /usr/workspace
 ```
 Then run the commands in this bash as in your working directory.
